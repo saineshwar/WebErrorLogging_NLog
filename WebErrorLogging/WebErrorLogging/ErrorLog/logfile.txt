@@ -1,0 +1,28 @@
+------Info(2019-02-13 23:46:00.0516)SAI-PC------
+
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Hi I am NLog Info Level
+
+------Warn(2019-02-13 23:46:00.1066)SAI-PC------
+
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Hi I am NLog Warn Level
+
+------Error(2019-02-13 23:46:00.1296)SAI-PC------
+
+                      Exception Type:System.NullReferenceException |
+                      Exception Message:Object reference not set to an instance of an object. |
+                      Stack Trace:   at WebErrorLogging.Controllers.DefaultController.Index() in E:\DemoProject\WebErrorLogging\WebErrorLogging\Controllers\DefaultController.cs:line 22 |
+                      Additional Info:Hi I am NLog Error Level
+
+------Fatal(2019-02-13 23:46:00.1296)SAI-PC------
+
+                      Exception Type:System.NullReferenceException |
+                      Exception Message:Object reference not set to an instance of an object. |
+                      Stack Trace:   at WebErrorLogging.Controllers.DefaultController.Index() in E:\DemoProject\WebErrorLogging\WebErrorLogging\Controllers\DefaultController.cs:line 22 |
+                      Additional Info:Hi I am NLog Fatal Level
+

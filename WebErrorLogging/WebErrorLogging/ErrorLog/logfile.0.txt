@@ -1,0 +1,7 @@
+------Debug(2019-02-13 23:45:59.8926)SAI-PC------
+
+                      Exception Type: |
+                      Exception Message: |
+                      Stack Trace: |
+                      Additional Info:Hi I am NLog Debug Level
+
